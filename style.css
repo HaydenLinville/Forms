@@ -1,5 +1,5 @@
 button {
- background-color: rgba(1, 125, 226, 0.904);
+ background-color: rgba(0,128,255,255);
  color: white;
  border-radius: 15px;
  padding: 1em;
@@ -59,7 +59,7 @@ img {
 }
 
 #individual {
- background-color: rgba(1, 125, 226, 0.904);
+ background-color: rgba(0,128,255,255);
  color: white;
  margin: 20px;
 }
