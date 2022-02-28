@@ -28,7 +28,12 @@ button {
  border: 3px inset lightgray;
 }
 
-.signup {
+#signup {
+ text-align: left;
+ padding-left: 75px;
+}
+
+.boxwrapping {
  display: flex;
  flex-direction: column;
  background-color: white;
@@ -47,8 +52,8 @@ img {
  display: flex;
  align-items: center;
  border-radius: 50%;
- width: 65px;
- height: 65px;
+ width: 35px;
+ height: 35px;
  
 }
 
@@ -56,10 +61,12 @@ img {
  display: flex;
  flex-direction: row;
  align-items: center;
+ margin: auto;
 }
 
 #individual {
  background-color: rgba(0,128,255,255);
  color: white;
- margin: 20px;
+ margin: 10px;
+ width: 190px;
 }
