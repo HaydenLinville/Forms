@@ -1,0 +1,65 @@
+button {
+ background-color: rgba(1, 125, 226, 0.904);
+ color: white;
+ border-radius: 15px;
+ padding: 1em;
+}
+
+.right {
+ position:fixed;
+ top: 0;
+ right: 0;
+}
+
+.spacing {
+ margin-left: 10px;
+}
+
+.aboutregister {
+ display: flex;
+ float:inline-end;
+}
+
+.background {
+ background-color: rgba(100,183,255,255);
+ padding-bottom: 500px;
+ display: flex;
+ margin-top: 60px;
+ border: 3px inset lightgray;
+}
+
+.signup {
+ display: flex;
+ flex-direction: column;
+ background-color: white;
+ text-align: center;
+ border: 3px inset lightgrey;
+ border-radius: 10px;
+ margin: 100px 750px 2px 750px;
+ padding-bottom: 80px;
+}
+
+.info {
+ margin: 1em 5em 1em 5em;
+}
+
+img {
+ display: flex;
+ align-items: center;
+ border-radius: 50%;
+ width: 65px;
+ height: 65px;
+ 
+}
+
+.imove {
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+}
+
+#individual {
+ background-color: rgba(1, 125, 226, 0.904);
+ color: white;
+ margin: 20px;
+}
